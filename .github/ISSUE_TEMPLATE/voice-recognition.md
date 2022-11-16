@@ -1,11 +1,11 @@
 ---
 name: Voice Recognition
-about: Catching punctuations
-title: ''
+about: voice-recognition project
+title: "[VR] "
 labels: ''
 assignees: kunal-iitj
 
 ---
 
-#Current Behavior 
-#Expected Behavior
+# Current Behavior 
+# Expected Behavior
